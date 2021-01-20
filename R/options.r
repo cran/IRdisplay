@@ -18,7 +18,8 @@
 #' 
 #' }
 #' 
-#' @name IRdisplay-options
+#' @rdname IRdisplay-options
+#' @aliases IRdisplay-options
 #' @export
 irdisplay_option_defaults <- list(
     jupyter.display_mimetypes = c(
